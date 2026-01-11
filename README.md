@@ -28,7 +28,7 @@ No, the site does have a centralized cache to improve performance (and avoids a 
 
 ### Can I filter the stream by a specific Region or Alliance?
 
-Not yet, I decided against it for now however if you want that feel free to let me know.
+Not yet, I decided against it as again thats zkills thing, however if you want that feel free to let me know.
 
 ### How can I contribute to the project or report a bug?
 
