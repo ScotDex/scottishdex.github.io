@@ -3,6 +3,7 @@
 ![Kills](https://img.shields.io/badge/Kills_Processed-15k+-00FF00?style=for-the-the-badge&logo=target)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-the-badge&logo=docker&logoColor=white)
+![Discord Online](https://img.shields.io/discord/790348216587255808?label=Pilots%20Online&color=7289DA&style=for-the-badge)
 
 ## ❓ Frequently Asked Questions (Q&A)
 
